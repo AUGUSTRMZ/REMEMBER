@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 9840cd2d63ff1574aa35251744e0499e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2682733450868714705
+    second: Recuerdo 1_0
+  - first:
+      213: -8935924683100600889
+    second: Recuerdo 1_1
+  - first:
+      213: 3810139832897952291
+    second: Recuerdo 1_2
+  - first:
+      213: 1758079859419915521
+    second: Recuerdo 1_3
+  - first:
+      213: 8968273557012298969
+    second: Recuerdo 1_4
+  - first:
+      213: -5222115411930680966
+    second: Recuerdo 1_5
+  - first:
+      213: -646265313366347880
+    second: Recuerdo 1_6
+  - first:
+      213: -8526952223831651251
+    second: Recuerdo 1_7
+  - first:
+      213: -143273553114614410
+    second: Recuerdo 1_8
+  - first:
+      213: 8408837623666640711
+    second: Recuerdo 1_9
+  - first:
+      213: -4418784299453160130
+    second: Recuerdo 1_10
+  - first:
+      213: 1164237449929894300
+    second: Recuerdo 1_11
+  - first:
+      213: 1817933832690428831
+    second: Recuerdo 1_12
+  - first:
+      213: 6132851114237178345
+    second: Recuerdo 1_13
+  - first:
+      213: -2226687879203452574
+    second: Recuerdo 1_14
+  - first:
+      213: -513317928877778965
+    second: Recuerdo 1_15
+  - first:
+      213: -432182166771794248
+    second: Recuerdo 1_16
+  - first:
+      213: -1336382423345846162
+    second: Recuerdo 1_17
+  - first:
+      213: -5924637288248501688
+    second: Recuerdo 1_18
+  - first:
+      213: 720028563090165964
+    second: Recuerdo 1_19
+  - first:
+      213: -4683888747463261607
+    second: Recuerdo 1_20
+  - first:
+      213: 1631702813810018262
+    second: Recuerdo 1_21
+  - first:
+      213: -294435831091327408
+    second: Recuerdo 1_22
+  - first:
+      213: 2383445662726062447
+    second: Recuerdo 1_23
+  - first:
+      213: -7073249113311273241
+    second: Recuerdo 1_24
+  - first:
+      213: -7089915106891841827
+    second: Recuerdo 1_25
+  - first:
+      213: -217674357555271033
+    second: Recuerdo 1_26
+  - first:
+      213: 4257335194935711343
+    second: Recuerdo 1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recuerdo 1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 1425
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc661e1cdbfa3520800000000000000
+      internalID: 2682733450868714705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 960
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5c42468d73df380800000000000000
+      internalID: -8935924683100600889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 961
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad274bdf550e430800000000000000
+      internalID: 3810139832897952291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_3
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 911
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052e734154f56810800000000000000
+      internalID: 1758079859419915521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 897
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc3f3eb845b57c70800000000000000
+      internalID: 8968273557012298969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 891
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7177c763b15787b0800000000000000
+      internalID: -5222115411930680966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_6
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 831
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f642e1f110807f0800000000000000
+      internalID: -646265313366347880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 838
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c89c1512e2aa980800000000000000
+      internalID: -8526952223831651251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 791
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67535e8667df20ef0800000000000000
+      internalID: -143273553114614410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 721
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747079c444132b470800000000000000
+      internalID: 8408837623666640711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 661
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35650467135da2c0800000000000000
+      internalID: -4418784299453160130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 543
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992745dac3382010800000000000000
+      internalID: 1164237449929894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_12
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 511
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b6da260399a3910800000000000000
+      internalID: 1817933832690428831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 496
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1377c58934c1550800000000000000
+      internalID: 6132851114237178345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 401
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269096edb273911e0800000000000000
+      internalID: -2226687879203452574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 385
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be79668301450e8f0800000000000000
+      internalID: -513317928877778965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_16
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 359
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8befe4feb94900af0800000000000000
+      internalID: -432182166771794248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 317
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6825643447347de0800000000000000
+      internalID: -1336382423345846162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_18
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 269
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1ae2c6c577cda0800000000000000
+      internalID: -5924637288248501688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_19
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 287
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0df1bc92e0ef900800000000000000
+      internalID: 720028563090165964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_20
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 257
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c000200c7ffeb0800000000000000
+      internalID: -4683888747463261607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_21
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 226
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c6246019f4a610800000000000000
+      internalID: 1631702813810018262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_22
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 231
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e87aeeb24f9ebf0800000000000000
+      internalID: -294435831091327408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618b34c333b31120800000000000000
+      internalID: 2383445662726062447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 99
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1c393865c6dd90800000000000000
+      internalID: -7073249113311273241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 95
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde390636cf8b9d90800000000000000
+      internalID: -7089915106891841827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae439335aaafcf0800000000000000
+      internalID: -217674357555271033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuerdo 1_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6659efadc7151b30800000000000000
+      internalID: 4257335194935711343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recuerdo 1_0: 2682733450868714705
+      Recuerdo 1_1: -8935924683100600889
+      Recuerdo 1_10: -4418784299453160130
+      Recuerdo 1_11: 1164237449929894300
+      Recuerdo 1_12: 1817933832690428831
+      Recuerdo 1_13: 6132851114237178345
+      Recuerdo 1_14: -2226687879203452574
+      Recuerdo 1_15: -513317928877778965
+      Recuerdo 1_16: -432182166771794248
+      Recuerdo 1_17: -1336382423345846162
+      Recuerdo 1_18: -5924637288248501688
+      Recuerdo 1_19: 720028563090165964
+      Recuerdo 1_2: 3810139832897952291
+      Recuerdo 1_20: -4683888747463261607
+      Recuerdo 1_21: 1631702813810018262
+      Recuerdo 1_22: -294435831091327408
+      Recuerdo 1_23: 2383445662726062447
+      Recuerdo 1_24: -7073249113311273241
+      Recuerdo 1_25: -7089915106891841827
+      Recuerdo 1_26: -217674357555271033
+      Recuerdo 1_27: 4257335194935711343
+      Recuerdo 1_3: 1758079859419915521
+      Recuerdo 1_4: 8968273557012298969
+      Recuerdo 1_5: -5222115411930680966
+      Recuerdo 1_6: -646265313366347880
+      Recuerdo 1_7: -8526952223831651251
+      Recuerdo 1_8: -143273553114614410
+      Recuerdo 1_9: 8408837623666640711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

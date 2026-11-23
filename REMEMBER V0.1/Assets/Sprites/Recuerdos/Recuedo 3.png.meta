@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 95f8050d6f3ab734da408ba7ff5ab3f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1071013205793142667
+    second: Recuedo 3_0
+  - first:
+      213: -5617386269152213631
+    second: Recuedo 3_1
+  - first:
+      213: -5920944683164570412
+    second: Recuedo 3_2
+  - first:
+      213: -455298894024006421
+    second: Recuedo 3_3
+  - first:
+      213: -1663536237951554080
+    second: Recuedo 3_4
+  - first:
+      213: -8034021435620165958
+    second: Recuedo 3_5
+  - first:
+      213: -917435095973961864
+    second: Recuedo 3_6
+  - first:
+      213: 445558691859857782
+    second: Recuedo 3_7
+  - first:
+      213: -565176615928281839
+    second: Recuedo 3_8
+  - first:
+      213: -457609510236221314
+    second: Recuedo 3_9
+  - first:
+      213: 5841975488407723660
+    second: Recuedo 3_10
+  - first:
+      213: 1152111232468171927
+    second: Recuedo 3_11
+  - first:
+      213: 7554182794626439193
+    second: Recuedo 3_12
+  - first:
+      213: 546932102988071817
+    second: Recuedo 3_13
+  - first:
+      213: 6245658427659381773
+    second: Recuedo 3_14
+  - first:
+      213: -3581945307281262419
+    second: Recuedo 3_15
+  - first:
+      213: -9139084130296050281
+    second: Recuedo 3_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recuedo 3_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 1214
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b877d0116d00dde00800000000000000
+      internalID: 1071013205793142667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1186
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185860d43f80b02b0800000000000000
+      internalID: -5617386269152213631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1070
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcec316e2494dda0800000000000000
+      internalID: -5920944683164570412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_3
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1080
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4221371147ea9f0800000000000000
+      internalID: -455298894024006421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_4
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1082
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed68e9fa9ee9e8e0800000000000000
+      internalID: -1663536237951554080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 980
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67cf3021c618090800000000000000
+      internalID: -8034021435620165958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_6
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 972
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fdef714ad9443f0800000000000000
+      internalID: -917435095973961864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 851
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67105e20541fe2600800000000000000
+      internalID: 445558691859857782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 17
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cc3cbcd61828f0800000000000000
+      internalID: -565176615928281839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 515
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709780339e36a9f0800000000000000
+      internalID: -457609510236221314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed41d21cdd21150800000000000000
+      internalID: 5841975488407723660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 408
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb001df0f1dff00800000000000000
+      internalID: 1152111232468171927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 369
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918931a5a39d5d860800000000000000
+      internalID: 7554182794626439193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 351
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838cd299d7179700800000000000000
+      internalID: 546932102988071817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_14
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cef01cf390da650800000000000000
+      internalID: 6245658427659381773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_15
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 278
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87f9298bf5a4ec0800000000000000
+      internalID: -3581945307281262419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recuedo 3_16
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 222
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d4b4987637b2180800000000000000
+      internalID: -9139084130296050281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recuedo 3_0: 1071013205793142667
+      Recuedo 3_1: -5617386269152213631
+      Recuedo 3_10: 5841975488407723660
+      Recuedo 3_11: 1152111232468171927
+      Recuedo 3_12: 7554182794626439193
+      Recuedo 3_13: 546932102988071817
+      Recuedo 3_14: 6245658427659381773
+      Recuedo 3_15: -3581945307281262419
+      Recuedo 3_16: -9139084130296050281
+      Recuedo 3_2: -5920944683164570412
+      Recuedo 3_3: -455298894024006421
+      Recuedo 3_4: -1663536237951554080
+      Recuedo 3_5: -8034021435620165958
+      Recuedo 3_6: -917435095973961864
+      Recuedo 3_7: 445558691859857782
+      Recuedo 3_8: -565176615928281839
+      Recuedo 3_9: -457609510236221314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
